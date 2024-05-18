@@ -1,0 +1,12 @@
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\bin\Debug\TasksFuntion.exe.config
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\bin\Debug\TasksFuntion.exe
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\bin\Debug\TasksFuntion.pdb
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\bin\Debug\Guna.UI2.dll
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\obj\Debug\TasksFuntion.csproj.AssemblyReference.cache
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\obj\Debug\TasksFuntion.Form1.resources
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\obj\Debug\TasksFuntion.Properties.Resources.resources
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\obj\Debug\TasksFuntion.csproj.GenerateResource.cache
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\obj\Debug\TasksFuntion.csproj.CoreCompileInputs.cache
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\obj\Debug\TasksFuntion.csproj.CopyComplete
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\obj\Debug\TasksFuntion.exe
+C:\Users\marielle\source\repos\TasksFuntion\TasksFuntion\obj\Debug\TasksFuntion.pdb
